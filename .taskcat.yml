@@ -5,6 +5,7 @@ project:
   - us-east-1
   - us-west-2
   - eu-central-1
+
 tests:
   default:
     template: ./templates/master.template.yaml
